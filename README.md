@@ -4,7 +4,6 @@
 
 # high performance computing
 
-08/02/2022
 
 Programas, algoritmos y proyectos que se llevan acabo en el estudio y desarrollo de la Computación de alto rendimiento  
 
