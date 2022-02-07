@@ -6,15 +6,19 @@
 
 08/02/2022
 
-Programas básicos y de repaso para C++ 
+Programas, algoritmos y proyectos que se llevan acabo en el estudio y desarrollo de la Computación de alto rendimiento  
 
-*Computación de alto rendimiento*
+**Materia:* **Computación de alto rendimiento*
 
  **Profesor:** John Jairo Corredor Franco
  
  **Estudiante:** Jofre Eduardo Oliveros Gavidia
  
-**- En la carpeta "primer taller" podrá observar 11 algoritmos de dificultad facil/media**
-**desarrollados en el lenguaje de programación c++**
+ **1.** En la carpeta "Desarrollo en clase" podrá observar algoritmos de dificultad y programas
+desarrollados en clase.
 
-**- Los resultados y ejecución por consola de cada punto se encuentran en el documento denominado "resultados"**
+**2.** En la carpeta "primer taller" podrá observar 11 algoritmos de dificultad facil/media
+desarrollados en el lenguaje de programación c++, ademas los resultados y ejecución por consola de cada punto se encuentran en el documento denominado "resultados"
+
+
+
