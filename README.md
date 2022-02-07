@@ -8,7 +8,7 @@
 
 Programas, algoritmos y proyectos que se llevan acabo en el estudio y desarrollo de la Computación de alto rendimiento  
 
-**Materia:** **Computación de alto rendimiento*
+**Materia:** **Computación de alto rendimiento**
 
  **Profesor:** John Jairo Corredor Franco
  
