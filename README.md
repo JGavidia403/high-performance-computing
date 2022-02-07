@@ -14,7 +14,7 @@ Programas básicos y de repaso para C++
  
  **Estudiante:** Jofre Eduardo Oliveros Gavidia
  
-**- En esta carpeta podrá observar 11 algoritmos de dificuñltad facil/media**
+**- En la carpeta "primer taller" podrá observar 11 algoritmos de dificuñltad facil/media**
 **desarrollados en el lenguaje de programación c++**
 
 **- Los resultados y ejecución por consola de cada punto se encuentran en el documento denominado "resultados"**
