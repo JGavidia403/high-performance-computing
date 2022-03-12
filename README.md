@@ -18,6 +18,7 @@ desarrollados en clase.
 
 **2.** En la carpeta "primer taller" podrá observar 11 algoritmos de dificultad facil/media
 desarrollados en el lenguaje de programación c++, ademas los resultados y ejecución por consola de cada punto se encuentran en la carpeta denominada "imagenes"
+
 **3.** En la carpeta "parcial 1" podrá observar el parcial correspondiente al primer corte de la materia de Computación de alto rendimiento para ML
 
 
