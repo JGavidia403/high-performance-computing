@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jofre/Documentos/HPC3/ModeloLR2/EXTRACTION/extractiondata.h
+iostream
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+fstream
+-
+unistd.h
+-
+
+/home/jofre/Documentos/HPC3/ModeloLR2/main.cpp
+EXTRACTION/extractiondata.h
+/home/jofre/Documentos/HPC3/ModeloLR2/EXTRACTION/extractiondata.h
+iostream
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+fstream
+-
+boost/algorithm/string.hpp
+-
+unistd.h
+-
+
