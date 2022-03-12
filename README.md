@@ -1,6 +1,6 @@
 
 
-![Alt text](https://www.usergioarboleda.edu.co/wp-content/uploads/ultimatum/imagens/logo-mobile-UniversidadSergioArboleda.png)
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.es%2Fpng-r6wzue%2F&psig=AOvVaw0Fk_vCVgZcJn_Bo0HbLllS&ust=1647204285149000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD_tqW4wfYCFQAAAAAdAAAAABAI)
 
 # high performance computing
 
