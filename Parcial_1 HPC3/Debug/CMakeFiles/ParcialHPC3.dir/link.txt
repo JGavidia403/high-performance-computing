@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/ParcialHPC3.dir/main.cpp.o  -o ParcialHPC3 

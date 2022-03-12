@@ -1,0 +1,3 @@
+/home/jofre/Documentos/HPC3/ParcialHPC3/Debug/CMakeFiles/rebuild_cache.dir
+/home/jofre/Documentos/HPC3/ParcialHPC3/Debug/CMakeFiles/edit_cache.dir
+/home/jofre/Documentos/HPC3/ParcialHPC3/Debug/CMakeFiles/ParcialHPC3.dir
