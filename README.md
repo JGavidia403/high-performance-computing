@@ -1,6 +1,5 @@
 
-<img src=“https://www.usergioarboleda.edu.co/wp-content/uploads/ultimatum/imagens/logo-mobile-UniversidadSergioArboleda.png”>
-
+![USA](https://radcolombia.org/web/sites/default/files/archivos/instituciones/universidad-sergio-arboleda/logo-usa.png)
 # high performance computing
 
 
