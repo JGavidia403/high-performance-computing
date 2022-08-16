@@ -1,5 +1,5 @@
 
-![USA](/imagenes/U Sergio.png)
+![USA](imagenes/U Sergio.png)
 
 
 # high performance computing
