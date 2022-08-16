@@ -1,5 +1,4 @@
-
-![USA](imagenes/U Sergio.png)
+![USA](https://github.com/JGavidia403/high-performance-computing/blob/main/imagenes/U%20Sergio.png)
 
 
 
