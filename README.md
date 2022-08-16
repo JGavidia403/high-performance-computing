@@ -1,5 +1,5 @@
 
-![USA]([https://radcolombia.org/web/sites/default/files/archivos/instituciones/universidad-sergio-arboleda/logo-usa.png](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png))
+![USA](/imagenes/U Sergio.png)
 
 
 # high performance computing
