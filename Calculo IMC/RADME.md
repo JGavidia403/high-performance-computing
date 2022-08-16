@@ -1,4 +1,4 @@
-![USA]([https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png](https://img2.freepng.es/20180817/pvy/kisspng-sergio-arboleda-university-logo-business-school-encuentro-colombiano-de-combinatoria-ecco-2-18-5b778e556ebce9.5458243515345618774536.jpg))
+![USA](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png](https://img2.freepng.es/20180817/pvy/kisspng-sergio-arboleda-university-logo-business-school-encuentro-colombiano-de-combinatoria-ecco-2-18-5b778e556ebce9.5458243515345618774536.jpg)
 
 # high performance computing for Machine Learning
 
