@@ -1,5 +1,4 @@
-![USA]([https://radcolombia.org/web/sites/default/files/archivos/instituciones/universidad-sergio-arboleda/logo-usa.png](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1455514364/pim02bzqvgz0hibsra41.png))
-
+![USA]([https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png](https://img2.freepng.es/20180817/pvy/kisspng-sergio-arboleda-university-logo-business-school-encuentro-colombiano-de-combinatoria-ecco-2-18-5b778e556ebce9.5458243515345618774536.jpg))
 
 # high performance computing for Machine Learning
 
