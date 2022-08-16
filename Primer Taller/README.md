@@ -15,6 +15,8 @@
  
  **1.** Descargar la carpeta que contiene los programas 
  
- **2.** Abrir el *.cpp que se desee con un Entorno de desarrollo con Qt-Creator o DevC++
+ **2.** Abrir el *.cpp que se desee con un Entorno de desarrollo como Qt-Creator o DevC++
  
  **3** Compilar con dicho entorno y ejecutar con el mismo 
+ 
+ # Análisis y desarrollo de los ejercicios 
