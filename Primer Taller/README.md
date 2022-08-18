@@ -20,3 +20,9 @@
  **3** Compilar con dicho entorno y ejecutar con el mismo 
  
  # Análisis y desarrollo de los ejercicios 
+ 
+Independientemente del lenguaje, gran parte de los ejercicios consistian en aplicar lógica de programación a problemas triviales. Posterior a esto la segunda parte de los ejercicios proponian una mayor dificultad de programación al tener que implementar soluciones a probelmas más complejos,etc. En general se desarrolló el taller sin complicaciones. 
+
+# Comclusiones 
+
+C + + como lenguaje de programación, a pesar de que está más de lado del bajo nivel, es una herramienta bastante apropiada para resolver cualquier tipo de problema con cualquier dificultad. Permite el desarrollo del código de una manera sencilla y bastante legible.  
