@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Taller_Eigen.dir/main.cpp.o CMakeFiles/Taller_Eigen.dir/Logica/logica.cpp.o -o Taller_Eigen 

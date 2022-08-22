@@ -1,0 +1,3 @@
+/home/jofre/Documentos/HPC1/Taller_Eigen/Debug/CMakeFiles/Taller_Eigen.dir
+/home/jofre/Documentos/HPC1/Taller_Eigen/Debug/CMakeFiles/edit_cache.dir
+/home/jofre/Documentos/HPC1/Taller_Eigen/Debug/CMakeFiles/rebuild_cache.dir
