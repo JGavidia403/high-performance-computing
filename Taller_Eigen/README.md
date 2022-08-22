@@ -16,7 +16,7 @@ Eigen es una biblioteca C++ de alto nivel para álgebra lineal , operaciones mat
  
  **Estudiante:** Jofre Eduardo Oliveros Gavidia
  
- **Discusión : **
+ **Discusión :**
  La mayoria de ejercicios representaron un reto para su desarrollo, teniendo en cuenta que hay que tener unas bases claras en algebra. Por ejemplo al momento de saber ejecutar y entender :
  
  
@@ -29,13 +29,18 @@ Eigen es una biblioteca C++ de alto nivel para álgebra lineal , operaciones mat
 
 Por otro lado tambien es importante tener conocimiento medio/avanzado de c++ si se quiere realizar un programa modularizado como el que acá se exppne.
 
-##Para ejecutar el programa :
+## Para ejecutar el programa :
  
  **1.** Descargar la carpeta 'taller_eigen'
+ 
  **2.** Tener instalado en la maquina el entorno de desarrollo qt-creator
+ 
  **3.** Ejecutar qt-creator 
+ 
  **4.** Una vez ejecutado el entorno dirigirse a la pestaña 'open'
+ 
  **5.** Seleccionar la carpeta donde está el proyecto y elegir el fichero que tiene por nombre 'CMakeLists.txt'
+ 
  **6.** A continuación presionar ctrl + R para construir (compilar) y ejecutar
 
 
