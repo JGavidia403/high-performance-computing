@@ -36,9 +36,9 @@ int main(int argc, char* argv[])
     std::cout << "argv 2"<<argv[2] << std::endl;
     std::cout << "argv 3"<<argv[3] << std::endl;
     */
-    /*std::cout <<extraer.Promedio(DataFrame)<<"\n";*/
+    //std::cout <<extraer.Promedio(DataFrame)<<"\n";
     //std::cout <<extraer.matrizNormal(DataFrame);
-    /*std::cout <<extraer.DesvStandard(DataFrame);*/
+    //std::cout <<extraer.DesvStandard(DataFrame)<<"\n";
 
     /* El objeto CSVtoEigen (similar a un objeto DataFrame)
      * se normaliza: Se obtiene una matriz matNormal */
@@ -140,7 +140,7 @@ int main(int argc, char* argv[])
         /*
         for (auto v : costo) {
             std::cout << v << std::endl;
-        }
+        }<<"\n";
         */
 
         /* A continuación por propositos de seguridad y trsabilidad
@@ -161,9 +161,11 @@ int main(int argc, char* argv[])
          */
 
         auto muPromedio = extraer.Promedio(DataFrame);
+        std::cout<<"mean : \n "<<muPromedio<<"\n";
         auto muFeatures = muPromedio(0,8);
         auto escaladaData = DataFrame.rowwise() - DataFrame.colwise().mean();
         auto muEstandar = extraer.DesvStandard(escaladaData);
+        std::cout<<"std : \n "<<muEstandar<<"\n";
         auto DevFeatures = muEstandar(0,8);
         Eigen::MatrixXd y_train_hat = (X_train*thetaOut*DevFeatures).array()
                                        +muFeatures;
@@ -185,8 +187,8 @@ int main(int argc, char* argv[])
         extraer.matrixToFile(y_test_hat, "prediccionTest.txt");
         // Las variables independientes presentan una relación sobre la varible dependiente apróx. 37%
 
-        std::cout<<comprobacionMetrica<<"\n";
-        std::cout<<comprobacionMetrica1<<"\n";
+        //std::cout<<comprobacionMetrica<<"\n";
+        //std::cout<<comprobacionMetrica1<<"\n";
 
 
 

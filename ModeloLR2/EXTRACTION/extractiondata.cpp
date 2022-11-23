@@ -38,7 +38,7 @@ std::vector<std::vector<std::string>> ExtractionData::Readcsv(){
     /*Se crea el vector de vectores tipo string
       a retornar : tendrá los datos del dataset */
     std::vector<std::vector<std::string>> datosString;
-    /*Se itera a traves de cada linea. Se divide el
+    /*Se itera a traves de cada linea. Se divide el<<"\n";
       contenido según el delimitador provisto por el
       constructor */
     std::string linea = ""; //Variable para almacenar cada linea del dataset

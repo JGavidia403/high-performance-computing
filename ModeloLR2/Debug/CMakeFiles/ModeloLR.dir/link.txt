@@ -1,1 +1,1 @@
-/usr/bin/g++  -g   CMakeFiles/ModeloLR.dir/main.cpp.o CMakeFiles/ModeloLR.dir/EXTRACTION/extractiondata.cpp.o CMakeFiles/ModeloLR.dir/regresionlineal.cpp.o  -o ModeloLR 
+/usr/bin/g++ -g CMakeFiles/ModeloLR.dir/main.cpp.o CMakeFiles/ModeloLR.dir/EXTRACTION/extractiondata.cpp.o CMakeFiles/ModeloLR.dir/regresionlineal.cpp.o -o ModeloLR 
